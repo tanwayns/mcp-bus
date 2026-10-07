@@ -1,0 +1,7 @@
+{
+  "name": "SBS Transit Civic Velocity",
+  "description": "Civic-grade Singapore real-time bus telemetry application featuring official LTA passenger loading indicators, live arrival triplets, interactive route timelines, and intermodal MRT wayfinding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
